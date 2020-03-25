@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "surrogates",
+	"version": "${version}",
+
+	"name": "Surrogates",
+	"description": "Allows inventory systems to access player inventories through a new component.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Surrogates#readme",
+		"issues": "https://github.com/haykam821/Surrogates/issues"
+	},
+
+	"license": "MIT",
+	"icon": "assets/surrogates/icon.png",
+
+	"entrypoints": {
+		"main": [
+			"io.github.haykam821.surrogates.Main"
+		]
+	},
+
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}

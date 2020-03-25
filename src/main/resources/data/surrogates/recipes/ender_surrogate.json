@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"EeE",
+		"EhE",
+		"EEE"
+	],
+	"key": {
+		"E": {
+			"item": "minecraft:end_stone"
+		},
+		"e": {
+			"item": "minecraft:ender_eye"
+		},
+		"h": {
+			"item": "minecraft:hopper"
+		}
+	},
+	"result": {
+		"item": "surrogates:ender_surrogate"
+	}
+}

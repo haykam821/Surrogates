@@ -1,0 +1,7 @@
+{
+	"parent": "block/cube_top",
+	"textures": {
+		"top": "block/end_portal_frame_top",
+		"side": "block/end_stone"
+	}
+}
