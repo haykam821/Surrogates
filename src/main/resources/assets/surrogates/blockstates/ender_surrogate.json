@@ -1,7 +1,30 @@
 {
 	"variants": {
-		"": {
+		"facing=up": {
 			"model": "surrogates:block/ender_surrogate"
+		},
+		"facing=down": {
+			"model": "surrogates:block/ender_surrogate",
+			"x": 180
+		},
+		"facing=north": {
+			"model": "surrogates:block/ender_surrogate",
+			"x": 90
+		},
+		"facing=south": {
+			"model": "surrogates:block/ender_surrogate",
+			"x": 90,
+			"y": 180
+		},
+		"facing=west": {
+			"model": "surrogates:block/ender_surrogate",
+			"x": 90,
+			"y": 270
+		},
+		"facing=east": {
+			"model": "surrogates:block/ender_surrogate",
+			"x": 90,
+			"y": 90
 		}
 	}
 }
